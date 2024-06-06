@@ -1,0 +1,23 @@
+{
+  "name": "ia-store",
+  "version": "1.0.0",
+  "description": "A state management library for Angular with encrypted persistence.",
+  "main": "bundles/ia-store.umd.js",
+  "module": "fesm2015/ia-store.js",
+  "es2015": "fesm2015/ia-store.js",
+  "esm2015": "esm2015/ia-store.js",
+  "typings": "ia-store.d.ts",
+  "author": "Tu Nombre",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tu-usuario/ia-store.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tu-usuario/ia-store/issues"
+  },
+  "homepage": "https://github.com/tu-usuario/ia-store#readme",
+  "dependencies": {
+    "crypto-js": "^4.0.0"
+  }
+}
