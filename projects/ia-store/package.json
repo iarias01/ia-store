@@ -11,13 +11,13 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/tu-usuario/ia-store.git"
+    "url": "https://github.com/iarias01/ia-store.git"
   },
   "bugs": {
-    "url": "https://github.com/tu-usuario/ia-store/issues"
+    "url": "https://github.com/iarias01/ia-store/issues"
   },
-  "homepage": "https://github.com/tu-usuario/ia-store#readme",
-  "dependencies": {
+  "homepage": "https://github.com/iarias01/ia-store#readme",
+  "peerDependencies": {
     "crypto-js": "^4.0.0"
   }
 }
